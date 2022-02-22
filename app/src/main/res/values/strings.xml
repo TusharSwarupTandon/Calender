@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calender View</string>
+    <string name="event_hint">Enter Event</string>
+    <string name="default_time">08:00 AM</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="editor_insert_event_successful">Event saved</string>
+    <string name="editor_insert_event_failed">Error with saving event</string>
+    <string name="editor_delete_event_successful">Event Deleted</string>
+    <string name="editor_delete_event_failed">Error with deleting event</string>
+    <string name="empty_event">Please enter event name</string>
+    <string name="add">Add</string>
+</resources>
